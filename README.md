@@ -1,5 +1,5 @@
 # Coupon System Project
-    Full-stack Java Project, John Bryce - Java course (end) project.
+    Full-stack Java Project
 The Coupon System Project acts as a Micro Service,
 that shows an implementation which allows companies to CRUD coupons for their customers.
 then the Customers can purchase and use those Coupons, and get a discount in that company's "business".
